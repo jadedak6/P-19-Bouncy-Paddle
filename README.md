@@ -1,2 +1,2 @@
-# P-19-Bouncy-Paddle
-I created the bouncy paddle game. Here's my code.
+# Bouncy-paddle-game
+We created the bouncy paddle game.
